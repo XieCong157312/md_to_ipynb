@@ -113,5 +113,5 @@ if __name__ == "__main__":
     print("view this output file: " + args.out.name)
 
 """
-python md_to_ipynb.py --out sample\python100tips.ipynb sample\python100tips.md
+python .\md_to_ipynb.py --out test.ipynb .\README.md
 """
